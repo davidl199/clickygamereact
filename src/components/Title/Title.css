@@ -1,0 +1,19 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  text-decoration: none;
+  color: #2A77AE;
+  margin-bottom: 50px;
+}
+
+.headerText {
+  font-size: 30px;
+  font-weight: bold;
+ }
+
+ ul li {
+   list-style: none;
+   display: inline;
+ }
+
